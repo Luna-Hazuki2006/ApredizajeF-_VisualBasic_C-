@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\VersionC#.csproj": {}
+    "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\VersionC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\VersionC#.csproj": {
+    "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\VersionC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\VersionC#.csproj",
+        "projectUniqueName": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\VersionC#.csproj",
         "projectName": "VersionC#",
-        "projectPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\VersionC#.csproj",
+        "projectPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\VersionC#.csproj",
         "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\obj\\",
+        "outputPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",

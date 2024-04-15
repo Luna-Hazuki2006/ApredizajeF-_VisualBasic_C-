@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DkGztRTabJ1NR/T4PkcsMirbMojgqfrwXGQDK9vfX8rAq2epcK6XuirTNb/UjdMYrGMnMqxIHBrg6o94xuhD/w==",
+  "dgSpecHash": "F87UIzvKQmSol+yORibRJ3wfX9Blf3SGb03ogyWsoPM88I/zUl4ma5AEObbocSbJk656adhvYt3BIvgRz+GKww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionF#\\VersionF#.fsproj",
+  "projectFilePath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\VersionF#.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\d\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
   ],
