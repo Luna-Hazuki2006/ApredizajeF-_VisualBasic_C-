@@ -1,0 +1,14 @@
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\bin\Debug\net8.0\VersionC#.exe
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\bin\Debug\net8.0\VersionC#.deps.json
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\bin\Debug\net8.0\VersionC#.runtimeconfig.json
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\bin\Debug\net8.0\VersionC#.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\bin\Debug\net8.0\VersionC#.pdb
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.AssemblyInfoInputs.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.AssemblyInfo.cs
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.csproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\refint\VersionC#.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.pdb
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\VersionC#.genruntimeconfig.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionC#\obj\Debug\net8.0\ref\VersionC#.dll

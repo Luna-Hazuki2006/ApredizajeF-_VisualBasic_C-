@@ -1,0 +1,14 @@
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\bin\Debug\net8.0\VersionVisualBasic.exe
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\bin\Debug\net8.0\VersionVisualBasic.deps.json
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\bin\Debug\net8.0\VersionVisualBasic.runtimeconfig.json
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\bin\Debug\net8.0\VersionVisualBasic.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\bin\Debug\net8.0\VersionVisualBasic.pdb
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.AssemblyInfoInputs.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.AssemblyInfo.vb
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\refint\VersionVisualBasic.dll
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.pdb
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\VersionVisualBasic.genruntimeconfig.cache
+C:\Users\d\Desktop\Ana Paula\Nuevas_tecnologias\Entregable_Recuperativo\Aprendizaje\VersionVisualBasic\obj\Debug\net8.0\ref\VersionVisualBasic.dll

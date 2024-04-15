@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149589E2-7F56-48C3-A9B0-72A6E12A2E4F}|VersionF#\\VersionF#.fsproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionf#\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{149589E2-7F56-48C3-A9B0-72A6E12A2E4F}|VersionF#\\VersionF#.fsproj|solutionrelative:versionf#\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149589E2-7F56-48C3-A9B0-72A6E12A2E4F}|VersionF#\\VersionF#.fsproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionf#\\clases.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{149589E2-7F56-48C3-A9B0-72A6E12A2E4F}|VersionF#\\VersionF#.fsproj|solutionrelative:versionf#\\clases.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionvisualbasic\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|solutionrelative:versionvisualbasic\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionvisualbasic\\clases.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|solutionrelative:versionvisualbasic\\clases.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\aprendizaje\\versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clases.vb",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionVisualBasic\\Clases.vb",
+              "RelativeDocumentMoniker": "VersionVisualBasic\\Clases.vb",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionVisualBasic\\Clases.vb",
+              "RelativeToolTip": "VersionVisualBasic\\Clases.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T13:14:20.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clases.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\Clases.cs",
+              "RelativeDocumentMoniker": "VersionC#\\Clases.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\Clases.cs",
+              "RelativeToolTip": "VersionC#\\Clases.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA1wAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:36:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clases.fs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionF#\\Clases.fs",
+              "RelativeDocumentMoniker": "VersionF#\\Clases.fs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionF#\\Clases.fs",
+              "RelativeToolTip": "VersionF#\\Clases.fs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T08:43:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionF#\\Program.fs",
+              "RelativeDocumentMoniker": "VersionF#\\Program.fs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionF#\\Program.fs",
+              "RelativeToolTip": "VersionF#\\Program.fs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAACcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T08:26:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\Program.cs",
+              "RelativeDocumentMoniker": "VersionC#\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionC#\\Program.cs",
+              "RelativeToolTip": "VersionC#\\Program.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAuwHwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:00:15.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionVisualBasic\\Program.vb",
+              "RelativeDocumentMoniker": "VersionVisualBasic\\Program.vb",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\Aprendizaje\\VersionVisualBasic\\Program.vb",
+              "RelativeToolTip": "VersionVisualBasic\\Program.vb",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T08:02:05.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
