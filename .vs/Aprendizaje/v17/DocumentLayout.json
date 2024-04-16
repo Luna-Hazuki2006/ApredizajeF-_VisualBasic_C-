@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\apredizajef#_visualbasic_c#\\versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F93DB8A-2676-4B0B-A37B-BE7AAF69D5D7}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\apredizajef#_visualbasic_c#\\versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F93DB8A-2676-4B0B-A37B-BE7AAF69D5D7}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\apredizajef#_visualbasic_c#\\versionvisualbasic\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{D9F498A0-AA5E-4FD4-A276-5B38AFB8F64F}|VersionVisualBasic\\VersionVisualBasic.vbproj|solutionrelative:versionvisualbasic\\clases.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\apredizajef#_visualbasic_c#\\versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7DAD3A-E4E5-4947-B50E-F44530007B1A}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F93DB8A-2676-4B0B-A37B-BE7AAF69D5D7}|VersionC#\\VersionC#.csproj|c:\\users\\d\\desktop\\ana paula\\nuevas_tecnologias\\entregable_recuperativo\\apredizajef#_visualbasic_c#\\versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F93DB8A-2676-4B0B-A37B-BE7AAF69D5D7}|VersionC#\\VersionC#.csproj|solutionrelative:versionc#\\clases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,28 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Clases.vb",
-              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionVisualBasic\\Clases.vb",
-              "RelativeDocumentMoniker": "VersionVisualBasic\\Clases.vb",
-              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionVisualBasic\\Clases.vb",
-              "RelativeToolTip": "VersionVisualBasic\\Clases.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-13T13:14:20.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Clases.cs",
               "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\Clases.cs",
               "RelativeDocumentMoniker": "VersionC#\\Clases.cs",
               "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\Clases.cs",
               "RelativeToolTip": "VersionC#\\Clases.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:36:37.163Z",
+              "WhenOpened": "2024-04-15T04:00:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clases.vb",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionVisualBasic\\Clases.vb",
+              "RelativeDocumentMoniker": "VersionVisualBasic\\Clases.vb",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionVisualBasic\\Clases.vb",
+              "RelativeToolTip": "VersionVisualBasic\\Clases.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-13T13:14:20.377Z",
               "EditorCaption": ""
             },
             {
@@ -86,22 +86,9 @@
               "RelativeDocumentMoniker": "VersionF#\\Clases.fs",
               "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\Clases.fs",
               "RelativeToolTip": "VersionF#\\Clases.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-04-13T08:43:21.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.fs",
-              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\Program.fs",
-              "RelativeDocumentMoniker": "VersionF#\\Program.fs",
-              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\Program.fs",
-              "RelativeToolTip": "VersionF#\\Program.fs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-13T08:26:54.736Z",
               "EditorCaption": ""
             },
             {
@@ -112,9 +99,22 @@
               "RelativeDocumentMoniker": "VersionC#\\Program.cs",
               "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionC#\\Program.cs",
               "RelativeToolTip": "VersionC#\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T08:00:15.638Z",
+              "WhenOpened": "2024-04-15T03:58:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\Program.fs",
+              "RelativeDocumentMoniker": "VersionF#\\Program.fs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionF#\\Program.fs",
+              "RelativeToolTip": "VersionF#\\Program.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T08:26:54.736Z",
               "EditorCaption": ""
             },
             {
@@ -125,7 +125,7 @@
               "RelativeDocumentMoniker": "VersionVisualBasic\\Program.vb",
               "ToolTip": "C:\\Users\\d\\Desktop\\Ana Paula\\Nuevas_tecnologias\\Entregable_Recuperativo\\ApredizajeF#_VisualBasic_C#\\VersionVisualBasic\\Program.vb",
               "RelativeToolTip": "VersionVisualBasic\\Program.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwAMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-13T08:02:05.854Z",
               "EditorCaption": ""
